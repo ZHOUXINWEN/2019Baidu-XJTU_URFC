@@ -17,3 +17,7 @@ data/train/resample_txt.py  重新进行采样使得每个类别数量一致
 
 
 visit2array_adapt.py  将visit txt数据转化成npy (Reference: https://github.com/czczup/UrbanRegionFunctionClassification)
+
+
+https://pan.baidu.com/s/19zeRdIMInWmlHVTdFCJ7OA
+jw80
