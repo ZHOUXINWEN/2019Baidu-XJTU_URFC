@@ -19,5 +19,9 @@ data/train/resample_txt.py  重新进行采样使得每个类别数量一致
 visit2array_adapt.py  将visit txt数据转化成npy (Reference: https://github.com/czczup/UrbanRegionFunctionClassification)
 
 
+recorder.odt 记录不同模型不同epoch的验证精度以及模型融合在train 和test下的精度
+
+
+
 https://pan.baidu.com/s/19zeRdIMInWmlHVTdFCJ7OA
 jw80
